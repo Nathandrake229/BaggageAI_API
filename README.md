@@ -5,7 +5,7 @@ Tech Stack used:
 
 To run the API 
     1.First make sure that you have postgreSQL setup and create database named "testdb" using psql commandline
-    2.Chnage the username and password setting in app.CONFIG according to your credentials
+    2.Change the username and password setting in app.CONFIG according to your credentials
     3.Run python model.py
     4.Run python manage.py db init
     5.Run python manage.py db migrate
