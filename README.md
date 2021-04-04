@@ -16,7 +16,7 @@ Go to http://127.0.0.1:1234/upload or the path showing to you in command prompt 
 Enter the XML file and corresponding Image File and click Submit
 The resulting image with bounding boxes will be displayed in the page and the details will be stored in SQL database
 
-![alt text](https://github.com/Nathandrake229/BaggageAI_API/blob/main/Screenshot (3).png?raw=true)
+![alt text](https://github.com/Nathandrake229/BaggageAI_API/blob/main/Screenshot_(3).png?raw=true)
 
 I used PostgreSQL database because it is a fully flexible SQL database and importantly it supports wide range of datatypes especially Datetime which was required for this assignment.
 
